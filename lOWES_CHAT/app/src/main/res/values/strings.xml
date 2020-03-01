@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lOWES_CHAT</string>
+    <string name="speak">SPEAK</string>
+    <string name="enter">ENTER</string>
+    <string name="website">WEBSITE</string>
+    <string name="welcome_to_techsolution_app">WELCOME TO TECHSOLUTION APP</string>
+    <string name="todo">TODO</string>
+
+</resources>
